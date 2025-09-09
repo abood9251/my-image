@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="عنوان الصفحة هنا" />
     <meta property="og:description" content="وصف الصورة أو الرابط" />
-    <meta property="og:image" content=https://www.dropbox.com/scl/fi/av7k6zxfktej07m7rdnw2/yp29-12-2015-247350.jpg?rlkey=g0hw0xwr2i422kyf6tfgyey59&st=pfz2ufzl&dl=0 />
-    <meta property="og:url" content=https://github.com/abood9251/my-image />
+    <meta property="og:image" content="https://www.dropbox.com/scl/fi/av7k6zxfktej07m7rdnw2/yp29-12-2015-247350.jpg?rlkey=g0hw0xwr2i422kyf6tfgyey59&st=pfz2ufzl&dl=0" />
+    <meta property="og:url" content="https://github.com/abood9251/my-image" />
     <meta property="og:type" content="website" />
     <title>عنوان الصفحة</title>
 </head>
